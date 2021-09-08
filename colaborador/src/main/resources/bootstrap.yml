@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: 'colaborador'
+  profiles:    active: default
+  cloud:
+    config:
+      uri: http://localhost:8888
+  activemq:
+    broker-url: tcp://localhost:61616
+    user: admin
+    password: admin
+  

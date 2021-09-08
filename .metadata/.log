@@ -1,0 +1,1418 @@
+!SESSION 2021-08-26 08:05:29.555 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+This is a continuation of log file C:\dev\microservicos\.metadata\.bak_0.log
+Created Time: 2021-08-27 11:25:29.348
+
+!ENTRY Activator 1 0 2021-08-27 11:25:29.348
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 11:25:29.349
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 11:25:29.350
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 11:25:29.350
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 11:25:29.350
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 11:25:29.879
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 11:25:29.931
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 11:25:29.932
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 11:25:29.940
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 11:25:29.945
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 11:25:41.188
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 11:25:41.189
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 11:25:41.189
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 11:25:41.189
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 11:25:41.189
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 11:25:41.773
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 11:25:41.777
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 11:25:41.781
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 11:25:41.784
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 11:25:41.790
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 11:31:21.413
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 11:31:21.413
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 11:31:21.413
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 11:31:21.414
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 11:31:21.414
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 11:31:22.002
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 11:31:22.002
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 11:31:22.004
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 11:31:22.013
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 11:31:22.013
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 11:33:09.440
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 11:33:09.440
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 11:33:09.441
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 11:33:09.441
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 11:33:09.441
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 11:33:10.027
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 11:33:10.028
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 11:33:10.032
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 11:33:10.039
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 11:33:10.041
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 12:59:17.037
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 12:59:17.037
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 12:59:17.038
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 12:59:17.038
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 12:59:17.038
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 12:59:17.616
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 12:59:17.622
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 12:59:17.622
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 12:59:17.626
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 12:59:17.629
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:00:24.009
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:00:24.009
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:00:24.009
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:00:24.009
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:00:24.009
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:00:24.604
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:00:24.606
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:00:24.607
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:00:24.614
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:00:24.616
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:02:46.595
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:02:46.595
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:02:46.595
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:02:46.595
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:02:46.596
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:02:47.182
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:02:47.184
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:02:47.187
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:02:47.190
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:02:47.193
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:04:43.723
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:04:43.724
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:04:43.724
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:04:43.724
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:04:43.725
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:04:44.318
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:04:44.319
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:04:44.322
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:04:44.328
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:04:44.330
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:04:49.051
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:04:49.051
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:04:49.052
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:04:49.052
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:04:49.052
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:04:49.643
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:04:49.644
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:04:49.648
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:04:49.655
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:04:49.655
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:06:30.364
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:06:30.364
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:06:30.364
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:06:30.365
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:06:30.365
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:06:30.959
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:06:30.959
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:06:30.964
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:06:30.971
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:06:30.971
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:07:22.424
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:07:22.424
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:07:22.425
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:07:22.425
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:07:22.426
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:07:23.013
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:07:23.017
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:07:23.019
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:07:23.025
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:07:23.027
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:07:30.948
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:07:30.948
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:07:30.949
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:07:30.949
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:07:30.949
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:07:31.538
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:07:31.539
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:07:31.542
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:07:31.550
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:07:31.550
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:08:55.815
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:08:55.815
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:08:55.816
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:08:55.816
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:08:55.816
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:08:56.401
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:08:56.403
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:08:56.409
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:08:56.409
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:08:56.416
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:09:27.195
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:09:27.195
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:09:27.195
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:09:27.195
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:09:27.195
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:09:27.785
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:09:27.788
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:09:27.790
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:09:27.799
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:09:27.800
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:11:39.876
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.GEhxjTum
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:11:39.876
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.GEhxjTum
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:11:39.876
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:11:39.877
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.GEhxjTum => OK
+!SESSION 2021-08-27 13:18:24.474 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-08-27 13:18:38.059
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-27 13:18:38.059
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1a712f12,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@62525dd3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:43.577
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:43.578
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7109a540[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:43.584
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:43.728
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-08-27 13:18:44.338
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:18:44.338
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:18:44.339
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:18:44.339
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:18:44.340
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-27 13:18:44.399
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\csti'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.162
+!MESSAGE Boot LS startup time from start to initialized: 3572ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.292
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.HtGxtENmisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.297
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.299
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.300
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.300
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.300
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.HtGxtENm => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.311
+!MESSAGE classpath=167 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.318
+!MESSAGE buffering callback sts4.classpath.HtGxtENm ponto false 167
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.319
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.327
+!MESSAGE classpath=160 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.331
+!MESSAGE buffering callback sts4.classpath.HtGxtENm colaborador false 160
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.332
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.336
+!MESSAGE classpath=85 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.339
+!MESSAGE buffering callback sts4.classpath.HtGxtENm config-server false 85
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.339
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.345
+!MESSAGE classpath=136 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.349
+!MESSAGE buffering callback sts4.classpath.HtGxtENm eureka-server false 136
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.350
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.355
+!MESSAGE classpath=138 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.359
+!MESSAGE buffering callback sts4.classpath.HtGxtENm proxy false 138
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.360
+!MESSAGE executing callback sts4.classpath.HtGxtENm 5 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:18:47.798
+!MESSAGE executing callback sts4.classpath.HtGxtENm SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:17.371
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.HtGxtENm
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:17.372
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.HtGxtENm
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:17.372
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:17.372
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.HtGxtENm => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:23.230
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:23.230
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7109a540[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:23.231
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.511
+!MESSAGE Boot LS startup time from start to initialized: 1280ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.560
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.JjzCBHMeisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.560
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.561
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.561
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.561
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.562
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.JjzCBHMe => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.566
+!MESSAGE classpath=167 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.570
+!MESSAGE buffering callback sts4.classpath.JjzCBHMe ponto false 167
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.570
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.574
+!MESSAGE classpath=160 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.577
+!MESSAGE buffering callback sts4.classpath.JjzCBHMe colaborador false 160
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.577
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.579
+!MESSAGE classpath=85 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.580
+!MESSAGE buffering callback sts4.classpath.JjzCBHMe config-server false 85
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.581
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.583
+!MESSAGE classpath=136 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.586
+!MESSAGE buffering callback sts4.classpath.JjzCBHMe eureka-server false 136
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.586
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.588
+!MESSAGE classpath=138 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.591
+!MESSAGE buffering callback sts4.classpath.JjzCBHMe proxy false 138
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.591
+!MESSAGE executing callback sts4.classpath.JjzCBHMe 5 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 13:19:24.900
+!MESSAGE executing callback sts4.classpath.JjzCBHMe SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-27 13:21:14.446
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:21:14.446
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:21:14.447
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:21:14.447
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:21:14.447
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:21:16.149
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:21:16.149
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:21:16.149
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:21:16.149
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:21:16.150
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:21:19.892
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:21:19.893
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:21:19.894
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:21:19.896
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:21:19.899
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:22:27.982
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:22:27.983
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:22:27.983
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:22:27.984
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:22:27.984
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:22:28.603
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:22:28.609
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:22:28.629
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:22:28.647
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:22:28.647
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:23:43.545
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:23:43.546
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:23:43.546
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:23:43.547
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:23:43.547
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:23:44.177
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:23:44.179
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:23:44.181
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:23:44.185
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:23:44.191
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:24:08.273
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:24:08.274
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:24:08.274
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:24:08.274
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:24:08.275
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:24:08.883
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:24:08.901
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:24:08.908
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:24:08.914
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:24:08.946
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:25:31.622
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:25:31.623
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:25:31.623
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:25:31.624
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:25:31.624
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:25:32.223
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:25:32.224
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:25:32.224
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:25:32.233
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:25:32.239
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:26:53.463
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:26:53.464
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:26:53.464
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:26:53.465
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:26:53.465
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:26:54.063
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:26:54.069
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:26:54.079
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:26:54.087
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:26:54.107
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:28:19.844
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:28:19.845
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:28:19.845
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:28:19.845
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:28:19.846
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:28:20.438
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:28:20.441
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:28:20.443
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:28:20.448
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:28:20.453
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:28:38.014
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:28:38.014
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:28:38.015
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:28:38.016
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:28:38.016
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:28:38.548
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:28:38.604
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:28:38.607
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:28:38.611
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:28:38.618
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:30:03.330
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:30:03.330
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:30:03.331
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:30:03.331
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:30:03.331
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:30:03.928
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:30:03.935
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:30:03.937
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:30:03.942
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:30:03.948
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:36:57.083
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:36:57.083
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:36:57.083
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:36:57.084
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:36:57.084
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:36:57.686
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:36:57.704
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:36:57.706
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:36:57.718
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:36:57.733
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:38:24.723
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:38:24.724
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:38:24.724
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:38:24.724
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:38:24.724
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:38:25.323
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:38:25.323
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:38:25.324
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:38:25.326
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:38:25.333
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:38:33.419
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:38:33.419
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:38:33.419
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:38:33.419
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:38:33.419
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:38:34.010
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:38:34.013
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:38:34.013
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:38:34.020
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:38:34.022
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:39:22.452
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:39:22.454
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:39:22.454
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:39:22.454
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:39:22.454
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:39:23.067
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:39:23.067
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:39:23.069
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:39:23.070
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:39:23.070
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:42:17.117
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:42:17.117
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:42:17.117
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:42:17.118
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:42:17.118
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:42:17.657
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:42:17.708
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:42:17.708
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:42:17.710
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:42:17.712
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:44:29.763
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:44:29.763
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:44:29.763
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:44:29.764
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:44:29.764
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:44:30.352
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:44:30.353
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:44:30.355
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:44:30.359
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:44:30.363
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:49:28.803
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:49:28.804
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:49:28.804
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:49:28.805
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:49:28.806
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:49:29.390
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:49:29.390
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:49:29.390
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:49:29.396
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:49:29.399
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY org.eclipse.ui 2 2 2021-08-27 13:49:33.248
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-08-27 13:50:01.292
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:50:01.292
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:50:01.292
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:50:01.293
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:50:01.294
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:50:01.885
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:50:01.885
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:50:01.886
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:50:01.893
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:50:01.895
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:34.454
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:34.454
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:34.454
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:34.455
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:34.455
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:35.049
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:35.055
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:35.064
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:35.064
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:35.066
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:49.215
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:49.215
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:49.215
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:49.216
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:49.216
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:49.807
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:49.809
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:49.811
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:49.819
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:49.821
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:55.504
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:55.504
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:55.504
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:55.504
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:55.505
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:56.035
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:56.091
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:56.099
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:56.101
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:51:56.104
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:52:07.677
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:52:07.677
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:52:07.677
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:52:07.678
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:52:07.678
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:52:08.266
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:52:08.266
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:52:08.273
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:52:08.278
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:52:08.286
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:52:40.891
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:52:40.892
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:52:40.893
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:52:40.893
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:52:40.894
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-27 13:52:41.485
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:52:41.487
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-27 13:52:41.487
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-27 13:52:41.496
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-27 13:52:41.501
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 14:55:46.373
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.JjzCBHMe
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 14:55:46.373
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.JjzCBHMe
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 14:55:46.374
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-27 14:55:46.374
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.JjzCBHMe => OK
+!SESSION 2021-08-31 10:43:41.074 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-08-31 10:43:56.446
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-31 10:43:56.446
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@29c21acb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4113d9ab,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-31 10:43:59.151
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\csti'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-08-31 10:44:02.480
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-31 10:44:02.502
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-31 10:44:02.504
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-31 10:44:02.505
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY Activator 1 0 2021-08-31 10:44:02.507
+!MESSAGE Has main method computation for project 'proxy'
+
+!ENTRY Activator 1 0 2021-08-31 10:44:06.607
+!MESSAGE Has main method computation for project 'colaborador'
+
+!ENTRY Activator 1 0 2021-08-31 10:44:06.608
+!MESSAGE Has main method computation for project 'eureka-server'
+
+!ENTRY Activator 1 0 2021-08-31 10:44:06.609
+!MESSAGE Has main method computation for project 'config-server'
+
+!ENTRY Activator 1 0 2021-08-31 10:44:06.612
+!MESSAGE Has main method computation for project 'ponto'
+
+!ENTRY org.eclipse.ui 2 2 2021-08-31 10:44:11.374
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)

@@ -1,0 +1,56 @@
+package br.com.farol.teste.ponto.config;
+//
+//import java.util.ArrayList; 
+//import java.util.List; 
+
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.jms.annotation.JmsListener; 
+import org.springframework.stereotype.Component;
+
+import com.google.gson.Gson;
+
+import br.com.farol.teste.ponto.client.ColaboradorClient;
+import br.com.farol.teste.ponto.dto.InfoColaboradorDto;
+import br.com.farol.teste.ponto.dto.PontoDto;
+import br.com.farol.teste.ponto.model.Ponto;
+import br.com.farol.teste.ponto.repository.PontoRepository;
+import lombok.RequiredArgsConstructor; 
+
+@RequiredArgsConstructor
+@Component 
+public class Consumer { 
+
+	
+	@Autowired
+	private ColaboradorClient colaborador;
+	
+	
+	@Autowired
+	private PontoRepository pontoRepository;
+
+    @JmsListener (destination = "fila.ponto") 
+    public void listen (String mensagem) { 
+        System.out.println (mensagem); 
+        Ponto pontoSalvo = new Ponto(); 
+        try { 
+        	Gson gson = new Gson (); 
+        	PontoDto pontoDto = new PontoDto();
+        	pontoDto = gson.fromJson(mensagem, PontoDto.class);
+        	InfoColaboradorDto info = colaborador.getInfoColaboradorPorId(pontoDto.getIdFuncionario());
+    		pontoSalvo.setNome(info.getNome());
+    		pontoSalvo.setData(pontoDto.getData());
+    		pontoSalvo.setEntrada(pontoDto.getEntrada());
+    		pontoSalvo.setSaida(pontoDto.getSaida());
+    		pontoSalvo.setId_func(info.getId());
+    		
+    		pontoRepository.save(pontoSalvo);
+        	
+        	System.out.println("ponto do funcionario "+pontoSalvo.getNome()+" registrado com sucesso!");
+        } catch (Exception e) { 
+    	  System.out.println(e);
+        } 
+        
+    } 
+
+}

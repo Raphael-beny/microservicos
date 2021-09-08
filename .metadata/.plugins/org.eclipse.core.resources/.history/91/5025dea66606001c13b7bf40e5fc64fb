@@ -1,0 +1,33 @@
+package br.com.farol.teste.colaborador.jms;
+//
+//import java.util.ArrayList; 
+//import java.util.List; 
+
+import org.springframework.jms.annotation.JmsListener; 
+import org.springframework.stereotype.Component; 
+
+import com.google.gson.Gson;
+
+import br.com.farol.teste.colaborador.model.Departamento;
+import br.com.farol.teste.colaborador.repository.DepartamentoRepository; 
+
+@Component 
+public class Consumer { 
+
+    //private List<Departamento> departamentos = new ArrayList <> (); 
+    private DepartamentoRepository departamentoRepository; 
+
+    @JmsListener (destination = "fila.colaborador") 
+    public void listen (String mensagem) { 
+        System.out.println (mensagem); 
+        Departamento departamento = new Departamento(); 
+        try { 
+         Gson gson = new Gson (); 
+         departamento = gson.fromJson(mensagem, Departamento.class); 
+         departamentoRepository.save(departamento); 
+      } catch (Exception e) { 
+    	  System.out.println(e);
+      } 
+    } 
+
+}

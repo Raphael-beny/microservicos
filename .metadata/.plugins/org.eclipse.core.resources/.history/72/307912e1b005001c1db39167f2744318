@@ -1,0 +1,5 @@
+package br.com.farol.teste.camel.config;
+
+public class RotaPontos {
+
+}

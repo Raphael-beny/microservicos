@@ -1,0 +1,25 @@
+server:
+  port: 9000
+  
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+      
+
+spring:
+  cloud:
+    gateway:
+      routes:
+      - id: colaborador
+        uri: https://localhost:9000
+        predicates:
+        - Weight=group1, 8
+        - Path=/**
+      - id: ponto
+        uri: https://localhost:8080
+        predicates:
+        - Weight=group1, 2
+        - Path=/**

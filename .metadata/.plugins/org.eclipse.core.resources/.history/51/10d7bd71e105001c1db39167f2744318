@@ -1,0 +1,57 @@
+package br.com.farol.teste.ponto;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.ApplicationArguments;
+import org.springframework.boot.ApplicationRunner;
+import org.springframework.jms.annotation.JmsListener;
+import org.springframework.jms.core.JmsTemplate;
+import org.springframework.stereotype.Component;
+
+import com.google.gson.Gson;
+
+import br.com.farol.teste.ponto.model.Ponto;
+import br.com.farol.teste.ponto.repository.PontoRepository;
+
+@Component
+public class MessageListenerComponent implements ApplicationRunner {
+
+	@Autowired
+	private Ponto ponto;
+	
+	@Autowired
+	private PontoRepository pontoRepository;
+	
+    private JmsTemplate jmsTemplate;
+    //private JmsTemplate jmsTemplateTopic;
+
+    @Autowired
+    public MessageListenerComponent(JmsTemplate jmsTemplate, JmsTemplate jmsTemplateTopic) {
+        this.jmsTemplate = jmsTemplate;
+        //this.jmsTemplateTopic = jmsTemplateTopic;
+    }
+
+    @JmsListener(destination = "fila.ponto")
+    public void onReceiverQueue(String str) {
+        System.out.println( str );
+        Ponto ponto = new Ponto();
+        try {
+         Gson gson = new Gson();
+         ponto = gson.fromJson(str, Ponto.class);
+         pontoRepository.save(ponto);
+      }catch(Exception e){
+
+      }
+    }
+
+//    @JmsListener(destination = "topic.sample", containerFactory = "jmsFactoryTopic")
+//    public void onReceiverTopic(String str) {
+//        System.out.println( str );
+//    }
+
+    @Override
+    public void run(ApplicationArguments args) throws Exception {
+        jmsTemplate.convertAndSend("fila.ponto", "{user: 'ponto', usando: 'fila'}");
+//        jmsTemplateTopic.convertAndSend("topic.sample", "{user: 'wolmir', usando: 'tópico'}");
+    }
+
+}

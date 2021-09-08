@@ -1,0 +1,61 @@
+package br.com.farol.teste.ponto.service;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import br.com.farol.teste.ponto.MessageListenerComponent;
+import br.com.farol.teste.ponto.client.ColaboradorClient;
+import br.com.farol.teste.ponto.dto.InfoColaboradorDto;
+import br.com.farol.teste.ponto.dto.PontoDto;
+import br.com.farol.teste.ponto.model.Ponto;
+import br.com.farol.teste.ponto.repository.PontoRepository;
+
+@Service
+public class PontoService {
+
+	@Autowired
+	private ColaboradorClient colaborador;
+	
+	@Autowired
+	private PontoRepository pontoRepository;
+	
+	@Autowired
+	private MessageListenerComponent msg;
+	
+	public Ponto registraPonto(PontoDto ponto) {
+
+		
+		InfoColaboradorDto info = colaborador.getInfoColaboradorPorId(ponto.getIdFuncionario());
+		
+		
+		Ponto pontoSalvo = new Ponto();
+		pontoSalvo.setNome(info.getNome());
+		pontoSalvo.setData(ponto.getData());
+		pontoSalvo.setEntrada(ponto.getEntrada());
+		pontoSalvo.setSaida(ponto.getSaida());
+		pontoSalvo.setId_func(info.getId());
+		
+		msg.onReceiverQueue("olá");
+		
+		pontoRepository.save(pontoSalvo);
+				
+		return pontoSalvo;
+		
+	}
+
+	public Ponto getById(Long id) {
+		return pontoRepository.findById(id).orElse(new Ponto());
+	}
+
+	public List<Ponto> getByPontosFuncionario(Long id) {
+		return pontoRepository.findByPontosPorFuncionario(id);
+	}
+	
+	public InfoColaboradorDto infoColaborador(Long id) {
+		return colaborador.getInfoColaboradorPorId(id);
+	}
+
+
+}

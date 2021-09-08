@@ -1,0 +1,87 @@
+package br.com.farol.teste.colaborador.controller;
+
+import lombok.RequiredArgsConstructor;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.ResponseStatus;
+
+import java.util.List;
+
+import javax.jms.JMSException;
+import javax.naming.NamingException;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import br.com.farol.teste.colaborador.jms.Producer;
+import br.com.farol.teste.colaborador.model.Colaborador;
+import br.com.farol.teste.colaborador.model.ColaboradorFila;
+import br.com.farol.teste.colaborador.repository.ColaboradorRepository;
+import br.com.farol.teste.colaborador.service.InfoService;
+
+@RequiredArgsConstructor
+@Controller
+@RestController
+@RequestMapping("/info")
+public class InfoController {
+	
+	@Autowired
+	private InfoService infoService;
+	
+	@Autowired
+	private Producer producer;
+	
+	@Autowired
+	private ColaboradorRepository colaboradorRepository;
+
+	@RequestMapping("/{id}")
+	public Colaborador getInfoColaboradorPorId(@PathVariable long id) {
+		return infoService.getInfoColaboradorPorId(id);
+	}
+	
+	@GetMapping
+	public List<Colaborador> listaColaboradores(){
+		return infoService.buscarColaboradores();
+	}
+
+//	@PostMapping(value = "salvar")
+//	public String save(@RequestParam("name") String name, @RequestParam("age") int age, Model model)
+//			throws JMSException, NamingException {
+//		Person person = Person.builder().name(name).age(age).build();
+//		producer.send(person);
+//		return "/cadastra-pessoas";
+//
+//	}
+	
+//	public String save(@RequestParam("id") long id, @RequestParam("nome") String nome, Model model)
+//	throws JMSException, NamingException {
+//		ColaboradorFila colab = new ColaboradorFila();
+//		//colab = ColaboradorFila.builder().id(id).age(nome).build();
+//		producer.send(colab);
+//		return "/cadastra-pessoas";
+//	}
+	
+	@PostMapping
+	@ResponseStatus(HttpStatus.CREATED)
+	public Colaborador salvarColaborador(@RequestBody Colaborador colaborador) throws JMSException, NamingException {
+		ColaboradorFila colab = new ColaboradorFila();
+		colab.setNome(colaborador.getNome());
+		producer.send(colab);
+		return colaboradorRepository.save(colaborador);
+	}
+	
+//	@DeleteMapping
+//	public void deletarColaborador(@RequestBody Colaborador colaborador) {
+//		colaboradorRepository.delete(colaborador);
+//	}
+//	
+//	@PutMapping
+//	public Colaborador atualizarColaborador(@RequestBody Colaborador colaborador) {
+//		return colaboradorRepository.save(colaborador);
+//	}
+
+}

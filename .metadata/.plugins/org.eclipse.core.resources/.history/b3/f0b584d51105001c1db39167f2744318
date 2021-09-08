@@ -1,0 +1,26 @@
+server:
+  port: 9000
+  
+spring:
+  cloud:
+    gateway:
+      globalcors:
+        corsConfigurations:
+          '[/**]':
+            allowedOrigins: "*"
+            allowedMethods:
+              - GET
+              - POST
+              - PUT
+              - DELETE
+              - OPTIONS
+            allowedHeaders: "*"
+      x-forwarded:
+        forEnabled: true
+        protoEnabled: true      routes:      - id: colaborador
+        uri: http://localhost:9091/
+        predicates:        - Path=/**
+      - id: ponto
+        uri: http://localhost:8080/
+        predicates:
+        - Path=/**          

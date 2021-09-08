@@ -1,0 +1,49 @@
+package br.com.farol.teste.colaborador;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.ApplicationArguments;
+import org.springframework.boot.ApplicationRunner;
+import org.springframework.jms.annotation.JmsListener;
+import org.springframework.jms.core.JmsTemplate;
+import org.springframework.stereotype.Component;
+
+//import com.google.gson.Gson;
+
+
+@Component
+public class MessageListenerComponent implements ApplicationRunner {
+
+	
+    private JmsTemplate jmsTemplate;
+    //private JmsTemplate jmsTemplateTopic;
+
+    @Autowired
+    public MessageListenerComponent(JmsTemplate jmsTemplate, JmsTemplate jmsTemplateTopic) {
+        this.jmsTemplate = jmsTemplate;
+        //this.jmsTemplateTopic = jmsTemplateTopic;
+    }
+
+//    @JmsListener(destination = "fila.colaborador")
+//    public void listen(String mensagem) {
+//        System.out.println(mensagem);
+////        Ponto ponto = new Ponto();
+////        try {
+////         Gson gson = new Gson();
+////         ponto = gson.fromJson(mensagem, Ponto.class);
+////      }catch(Exception e){
+////
+////      }
+//    }
+
+//    @JmsListener(destination = "topic.sample", containerFactory = "jmsFactoryTopic")
+//    public void onReceiverTopic(String str) {
+//        System.out.println( str );
+//    }
+
+    @Override
+    public void run(ApplicationArguments args) throws Exception {
+        //jmsTemplate.convertAndSend("fila.colaborador", "{user: 'colaborador', usando: 'fila'}");
+//        jmsTemplateTopic.convertAndSend("topic.sample", "{user: 'wolmir', usando: 'tópico'}");
+    }
+
+}

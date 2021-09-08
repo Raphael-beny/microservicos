@@ -1,0 +1,15 @@
+package br.com.farol.teste.colaborador.model;
+
+import lombok.*;
+
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
+public class ColaboradorFila {
+
+   private int id;
+   private String nome;
+   
+}

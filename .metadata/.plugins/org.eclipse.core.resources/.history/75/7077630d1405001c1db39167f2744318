@@ -1,0 +1,6 @@
+server:
+  port: 9000
+  
+spring:  cloud:    gateway:      routes:      - id: ponto
+        uri: http://localhost:8080/
+        predicates:        - Path=/**          

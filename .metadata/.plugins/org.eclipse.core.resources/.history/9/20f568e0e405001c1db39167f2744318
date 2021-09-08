@@ -1,0 +1,8 @@
+spring:  application:    name: 'ponto'  activemq:    broker-url: tcp://localhost:61616    user: admin    password: admin    name: fila.ponto
+
+
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:      defaultZone: http://localhost:8761/eureka            

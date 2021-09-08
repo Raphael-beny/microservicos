@@ -1,0 +1,38 @@
+
+server:  port: 8888
+  
+
+management:
+  endpoint:
+    health:
+      enabled: true
+      show-details: always
+    info:
+      enabled: true
+    prometheus:
+      enabled: true
+  endpoints:
+    jmx:
+      exposure:
+        include:
+        - /**
+    web:
+      exposure:
+        include:
+        - /**
+      base-path: /actuator
+      cors:
+        allowed-origins:
+        - true
+
+
+spring:
+  cloud:
+     config:
+       server:
+        git:
+          uri: http://src.farol.com.br/raphael.fernandes/microservice-repo
+          search-paths: colaboradores, pontos
+          
+
+        

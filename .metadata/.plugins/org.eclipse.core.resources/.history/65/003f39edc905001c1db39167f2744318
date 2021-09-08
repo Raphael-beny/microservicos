@@ -1,0 +1,13 @@
+package br.com.farol.teste.integracao;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class IntegracaoJmsApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(IntegracaoJmsApplication.class, args);
+	}
+
+}

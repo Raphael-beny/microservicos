@@ -1,0 +1,6 @@
+server:
+  port: 9000
+  
+spring:  cloud:    gateway:      routes:      - id: config-server
+        uri: http://localhost:8888/
+        predicates:        - Path=/**          
